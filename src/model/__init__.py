@@ -1,0 +1,1 @@
+/home/ederson/my-home/src/financ-prj/financ-app/src/model/__init__.py
