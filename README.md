@@ -7,5 +7,5 @@ $ cd financ-app
 $ pip install -r requirements.txt
 
 ## Run
-$ cd src
+$ cd src  
 $ python3 app.py
